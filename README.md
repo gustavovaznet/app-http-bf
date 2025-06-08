@@ -1,2 +1,2 @@
-# app-http-bf
-HTTP Brute Force
+# HTTP Brute Force
+Just a simple http brute force tool.
