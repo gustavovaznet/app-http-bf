@@ -1,2 +1,2 @@
 # HTTP Brute Force
-Just a simple http brute force tool.
+Simple http brute force tool.
